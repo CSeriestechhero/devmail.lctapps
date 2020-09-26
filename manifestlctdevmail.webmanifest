@@ -14,7 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "index/?source=pwa",
+  "start_url": "https://cseriestechhero.github.io/devmail.lctapps/?source=pwa",
   "background_color": "#af0a0a",
   "display": "standalone",
   "scope": "/",
@@ -24,14 +24,14 @@
       "name": "LCTapps Devmail",
       "short_name": "Devmail",
       "description": "Devmail, by LCTapps (made for developers over @lctapps)",
-      "url": "index?source=pwa",
+      "url": "https://cseriestechhero.github.io/devmail.lctapps?source=pwa",
       "icons": [{ "src": "iconS.png", "sizes": "192x192" }]
     },
     {
       "name": "LCTapps Devmail",
       "short_name": "Devmail",
       "description": "Devmail, by LCTapps (dev app)",
-      "url": "index?source=pwa",
+      "url": "https://cseriestechhero.github.io/devmail.lctapps?source=pwa",
       "icons": [{ "src": "iconS.png", "sizes": "192x192" }]
     }
   ]
